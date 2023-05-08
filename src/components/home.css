@@ -1,0 +1,21 @@
+#but{
+    margin-left:70rem;
+    color:beige;
+}
+#log{
+    margin-right:3rem;
+    color:beige;
+}
+#hed{
+    margin-left:1rem;
+    padding-top: 10%;
+    color:beige;
+}
+.bgimg
+  {
+    background-repeat: no-repeat;
+    background:url("C:\Users\umesh\loan\src\components\images\loan.jpg");
+    height: 100vh;
+  
+    background-size: cover;
+  }
